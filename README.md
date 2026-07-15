@@ -1,2 +1,27 @@
-# DSA_Practice_Questions
-This repository contains my Data Structures and Algorithms (DSA) practice solutions implemented in C++. It covers various topics like Arrays, Strings, Recursion, Linked Lists, and more, aimed at improving problem-solving skills and preparing for technical interviews.
+# DSA Practice in C++ 💻
+
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems, implemented in C++. The goal of this repository is to strengthen problem-solving skills and prepare for coding interviews.
+
+## 🚀 Topics Covered:
+
+* Arrays
+* Strings
+* Recursion
+* Linked Lists
+* Stack & Queue
+* Searching & Sorting
+* (More coming...)
+
+## 🛠 Language Used:
+
+* C++
+
+## 🎯 Objective:
+
+* Improve logical thinking
+* Practice DSA concepts
+* Prepare for technical interviews and coding rounds
+
+## 📌 Note:
+
+I will be regularly updating this repository with new problems and optimized solutions.
